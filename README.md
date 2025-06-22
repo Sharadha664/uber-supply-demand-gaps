@@ -16,7 +16,7 @@ Python (Pandas, Seaborn, Matplotlib) – EDA and visual storytelling
 
 Data Cleaning Note
 
-Initially, I cleaned the dataset in Excel** by handling formatting, blanks, and standardizing columns.  
+Initially, I cleaned the dataset in Excel by handling formatting, blanks, and standardizing columns.  
 However, I missed duplicate entries and a few missing Driver IDs, which I later identified and cleaned during the Python EDA process using Pandas.
 
 Excel Dashboard Highlights
